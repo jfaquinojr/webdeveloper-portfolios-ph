@@ -16,6 +16,5 @@ This repo is inspired by [Emma Bostian's Repo](https://github.com/emmabostian/de
 * [Robert Soriano](https://robsoriano.xyz/)
 * [Russel Timosan](http://russeltimosan.com/)
 * [Solomon Lee](http://techx-solutions.com/)
-
-
+* [Mark Vergel Banguis](https://banguismv.wtf/)
 
